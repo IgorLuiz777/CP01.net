@@ -1,0 +1,80 @@
+﻿@model List<CP01.Models.Geladeira>
+@{
+    ViewData["Title"] = "Geladeiras";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        table th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        table th {
+            background-color: #f2f2f2;
+        }
+
+    .botao {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #e3dede;
+        color: black;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px;
+        border: none;
+    }
+
+        .botao:hover {
+            background-color: #696868;
+            color: white;
+        }
+
+    h1 {
+        font-family: Arial, sans-serif;
+    }
+</style>
+
+<h1>Geladeiras</h1>
+
+<a class="botao" asp-area="" asp-controller="Produtos" asp-action="Index">Produtos</a>
+<a class="botao" asp-area="" asp-controller="Produtos" asp-action="Tvs">Televisões</a>
+<a class="botao" asp-area="" asp-controller="Produtos" asp-action="Fogoes">Fogões</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Marca</th>
+            <th>Descrição</th>
+            <th>Preço</th>
+            <th>Cor</th>
+            <th>Capacidade</th>
+            <th>Eficiência Energética</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var geladeira in Model)
+        {
+            <tr>
+                <td>@geladeira.ObterID()</td>
+                <td>@geladeira.Marca</td>
+                <td>@geladeira.Descricao</td>
+                <td>@geladeira.Preco.ToString("C")</td>
+                <td>@geladeira.Cor</td>
+                <td>@geladeira.Capacidade</td>
+                <td>@geladeira.EficienciaEnergetica</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

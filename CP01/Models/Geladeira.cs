@@ -2,12 +2,23 @@
 {
     public class Geladeira : Produtos
     {
-        public Geladeira(long id, double preco, string marca, string descricao, string modelo, string cor, string capacidade, string eficienciaEnerfetica) : base(id, preco, marca, descricao, modelo)
+        public Geladeira(double preco, string marca, string descricao, string modelo, string cor, string capacidade, string eficienciaEnerfetica, long id = 0)
+        : base(preco, marca, descricao, modelo, id)
         {
+            Cor = cor;
+            Capacidade = capacidade;
+            EficienciaEnergetica = eficienciaEnerfetica;
         }
 
-        private string Cor {  get; set; }
-        private string Capacidade { get; set; }
-        private string EficienciaEnergetica { get; set; }
+        public string Cor { get; set; }
+        public string Capacidade { get; set; }
+        public string EficienciaEnergetica { get; set; }
+
+        public override void Cadastrar()
+        {
+            base.Cadastrar();
+            Console.WriteLine($"Cor: {Cor}, Capacidade: {Capacidade}, Eficiência Energética: {EficienciaEnergetica}");
+            Console.WriteLine("Geladeira cadastrada com sucesso!");
+        }
     }
 }

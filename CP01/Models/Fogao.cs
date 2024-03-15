@@ -2,13 +2,24 @@
 {
     public class Fogao : Produtos
     {
-        public Fogao(long id, double preco, string marca, string descricao, string modelo, int bocas, string cor, string capacidade) : base(id, preco, marca, descricao, modelo)
+        public Fogao(double preco, string marca, string descricao, string modelo, int bocas, string cor, string capacidade, long id = 0)
+        : base(preco, marca, descricao, modelo)
         {
+            Bocas = bocas;
+            Cor = cor;
+            Capacidade = capacidade;
         }
 
-        private int Bocas { get; set; } 
-        private String Cor { get; set; }
-        private String Capacidade { get; set; }
-        
+        public int Bocas { get; set; }
+        public String Cor { get; set; }
+        public String Capacidade { get; set; }
+
+        public override void Cadastrar()
+        {
+            base.Cadastrar();
+            Console.WriteLine($"Cor: {Cor}, Capacidade: {Capacidade}, Bocas: {Bocas}");
+            Console.WriteLine("Fogão cadastrada com sucesso!");
+        }
+
     }
 }

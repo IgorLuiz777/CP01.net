@@ -7,16 +7,52 @@
       "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:models\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\models\\fogao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:models\\fogao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\models\\televisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:models\\televisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:models\\geladeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\produtos\\geladeiras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\produtos\\geladeiras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\produtos\\fogoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\produtos\\fogoes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\produtos\\tvs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\produtos\\tvs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\models\\iprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:models\\iprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|c:\\users\\igorl\\onedrive\\imagens\\documentos\\projects\\cp01.net\\cp01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E56A89DA-C315-46F8-B379-940C1E844A5A}|CP01.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +72,7 @@
               "RelativeDocumentMoniker": "Models\\Produtos.cs",
               "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Produtos.cs",
               "RelativeToolTip": "Models\\Produtos.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAApAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T21:32:29.366Z",
               "IsPinned": true,
@@ -45,12 +81,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Fogao.cs",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Fogao.cs",
+              "RelativeDocumentMoniker": "Models\\Fogao.cs",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Fogao.cs",
+              "RelativeToolTip": "Models\\Fogao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:38:42.916Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Geladeiras.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Geladeiras.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Geladeiras.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Geladeiras.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Geladeiras.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T13:36:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T13:15:16.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwD4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T12:25:22.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwEgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:19:27.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\IProdutos.cs",
+              "RelativeDocumentMoniker": "Models\\IProdutos.cs",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\IProdutos.cs",
+              "RelativeToolTip": "Models\\IProdutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:38:00.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Geladeira.cs",
               "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Geladeira.cs",
               "RelativeDocumentMoniker": "Models\\Geladeira.cs",
               "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Geladeira.cs",
               "RelativeToolTip": "Models\\Geladeira.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T22:45:41.305Z",
               "EditorCaption": ""
@@ -58,32 +177,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Fogao.cs",
-              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Fogao.cs",
-              "RelativeDocumentMoniker": "Models\\Fogao.cs",
-              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Fogao.cs",
-              "RelativeToolTip": "Models\\Fogao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T22:38:42.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Televisao.cs",
               "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Televisao.cs",
               "RelativeDocumentMoniker": "Models\\Televisao.cs",
               "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Models\\Televisao.cs",
               "RelativeToolTip": "Models\\Televisao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T22:35:33.242Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fogoes.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Fogoes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Fogoes.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Fogoes.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Fogoes.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwEMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:12:34.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tvs.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Tvs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Tvs.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Produtos\\Tvs.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Tvs.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAApwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T15:11:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T13:52:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\igorl\\OneDrive\\Imagens\\Documentos\\projects\\CP01.net\\CP01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T13:52:10.079Z",
+              "EditorCaption": ""
             }
           ]
         }

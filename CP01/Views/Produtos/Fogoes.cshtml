@@ -1,0 +1,78 @@
+﻿@model List<CP01.Models.Fogao>
+@{
+    ViewData["Title"] = "Fogões";
+}
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        table th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        table th {
+            background-color: #f2f2f2;
+        }
+
+    .botao {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #e3dede;
+        color: black;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 8px;
+        border: none;
+    }
+
+        .botao:hover {
+            background-color: #696868;
+            color: white;
+        }
+
+    h1 {
+        font-family: Arial, sans-serif;
+    }
+</style>
+
+<h1>Fogões</h1>
+
+<a class="botao" asp-area="" asp-controller="Produtos" asp-action="Geladeiras">Geladeiras</a>
+<a class="botao" asp-area="" asp-controller="Produtos" asp-action="Tvs">Televisões</a>
+<a class="botao" asp-area="" asp-controller="Produtos" asp-action="Index">Produtos</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Marca</th>
+            <th>Descrição</th>
+            <th>Preço</th>
+            <th>Bocas</th>
+            <th>Cor</th>
+            <th>Capacidade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fogao in Model)
+        {
+            <tr>
+                <td>@fogao.ObterID()</td>
+                <td>@fogao.Marca</td>
+                <td>@fogao.Descricao</td>
+                <td>@fogao.Preco.ToString("C")</td>
+                <td>@fogao.Bocas</td>
+                <td>@fogao.Cor</td>
+                <td>@fogao.Capacidade</td>
+            </tr>
+        }
+    </tbody>
+</table>

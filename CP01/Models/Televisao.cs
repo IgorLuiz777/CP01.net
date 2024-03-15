@@ -1,13 +1,25 @@
-﻿namespace CP01.Models
+﻿using System.Runtime.ConstrainedExecution;
+
+namespace CP01.Models
 {
     public class Televisao : Produtos
     {
-        public Televisao(long id, double preco, string marca, string descricao, string modelo, int polegadas, string resolucaoTela, string resolucao) : base(id, preco, marca, descricao, modelo)
+        public Televisao(double preco, string marca, string descricao, string modelo, int polegadas, string resolucaoTela, string resolucao, long id = 0)
+        : base(preco, marca, descricao, modelo, id)
         {
+            Polegadas = polegadas;
+            ResolucaoTela = resolucaoTela;
+            Resolucao = resolucao;
         }
-        private int Polegadas;
-        private string ResolucaoTela;
-        private string Resolucao;
+        public int Polegadas;
+        public string ResolucaoTela;
+        public string Resolucao;
 
+        public override void Cadastrar()
+        {
+            base.Cadastrar();
+            Console.WriteLine($"Polegadas: {Polegadas}, ResolucaoTela: {ResolucaoTela}, Resolução: {Resolucao}");
+            Console.WriteLine("Geladeira cadastrada com sucesso!");
+        }
     }
 }
